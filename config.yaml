@@ -1,0 +1,10 @@
+servidores:
+  - nome: nginx-local
+    url: http://172.24.58.32
+  - nome: servidor-falso
+    url: http://192.168.1.99
+  - nome: google
+    url: https://google.com
+
+alertas:
+  email: lovbatista10@gmail.com
